@@ -16,6 +16,6 @@ Topics discussed are:-
 9) [Two Dimensional Lists](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/9.Two%20Dimensional%20Lists)
 10) [Strings](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/10.Strings)
 
-#Support Me By Giving Me Star
+# Support Me By Giving Me Star
 
 

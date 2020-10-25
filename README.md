@@ -1,6 +1,8 @@
 # Coding Ninjas Problem Solving Using Python
-This repository includes all the practice problems and assignments which I've solved during the Problem Solving Using Python Programming taught by Coding Ninjas. 
-If you're unable to view the patterns properly in Jupyter notebook then double-click the markdown cell to enlarge. 
+Problem Solving Using Python Programming taught by Coding Ninjas. 
+This repository includes all the practice problems and assignments.
+I made this repository for your help.
+If you're unable to view the patterns correctly in the Jupyter notebook, then double-click the markdown cell to enlarge. 
 
 Topics discussed are:-
 1) [Introduction to Python](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/1.Introduction%20to%20Python)
@@ -13,5 +15,7 @@ Topics discussed are:-
 8) [Searching And Sorting](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/8.Searching%20%26%20Sorting)
 9) [Two Dimensional Lists](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/9.Two%20Dimensional%20Lists)
 10) [Strings](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/10.Strings)
+
+#Support Me By Giving Me Star
 
 

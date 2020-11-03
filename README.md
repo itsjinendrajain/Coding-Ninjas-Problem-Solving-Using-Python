@@ -4,6 +4,8 @@ This repository includes all the practice problems and assignments.
 I made this repository for your help.
 If you're unable to view the patterns correctly in the Jupyter notebook, then double-click the markdown cell to enlarge. 
 
+<b>If there is any code in coding ninjas first remove that than use my code</b>
+
 Topics discussed are:-
 1) [Introduction to Python](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/1.Introduction%20to%20Python)
 2) [Conditionals and Loops](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/2.Conditionals%20and%20Loops)

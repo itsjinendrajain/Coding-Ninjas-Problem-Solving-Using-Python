@@ -17,6 +17,8 @@ Topics discussed are:-
 8) [Searching And Sorting](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/8.Searching%20%26%20Sorting)
 9) [Two Dimensional Lists](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/9.Two%20Dimensional%20Lists)
 10) [Strings](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/10.Strings)
+11) [2048 Game](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/blob/main/2048%20Game.ipynb)
+
 
 # Support Me By Giving Me Star
 

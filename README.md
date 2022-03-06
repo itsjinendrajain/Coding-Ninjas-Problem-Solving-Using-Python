@@ -1,5 +1,6 @@
 # Coding Ninjas Problem Solving Using Python
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fitsjinendrajain%2FCoding-Ninjas-Problem-Solving-Using-Python)Problem Solving Using Python Programming taught by Coding Ninjas. 
+![Hits](https://itsjinendrajain.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fitsjinendrajain%2FCoding-Ninjas-Problem-Solving-Using-Python)
+Problem Solving Using Python Programming taught by Coding Ninjas. 
 This repository includes all the practice problems and assignments.
 I made this repository for your help.
 If you're unable to view the patterns correctly in the Jupyter notebook, then double-click the markdown cell to enlarge. 
